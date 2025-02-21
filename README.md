@@ -1,1 +1,1 @@
-# WUFCTCPortfolioOpt
+# WUFC Trading Competition Portfolio Optimization Case
